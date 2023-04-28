@@ -63,6 +63,8 @@ function game() {
 game();
 console.log(`You got ${playerScore} points and the computer have ${computerScore}`);
 
+const test = "test";
+
 
 
 
